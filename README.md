@@ -1,2 +1,3 @@
 # Faculdade
-Aulas da Faculdade de Engenharia
+Aulas da cadeira de programação de computadores
+
